@@ -89,8 +89,8 @@ ForegroundPositive=128,255,128
 ForegroundVisited=255,102,102
 
 [General]
-ColorScheme=KvAdaptaBreathDark
-Name=KvAdaptaBreathDark
+ColorScheme=KvAdaptaBreathBlack
+Name=KvAdaptaBreathBlack
 shadeSortColumn=true
 
 [KDE]

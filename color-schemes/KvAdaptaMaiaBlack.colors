@@ -89,8 +89,8 @@ ForegroundPositive=128,255,128
 ForegroundVisited=255,102,102
 
 [General]
-ColorScheme=KvAdaptaMaiaDark
-Name=KvAdaptaMaiaDark
+ColorScheme=KvAdaptaMaiaBlack
+Name=KvAdaptaMaiaBlack
 shadeSortColumn=true
 
 [KDE]

@@ -1,6 +1,6 @@
 [%General]
 author=Tsu Jan
-comment=The dark variant of KvAdaptaMaia
+comment=Black variant of KvAdaptaBreath
 x11drag=menubar_and_primary_toolbar
 alt_mnemonic=true
 left_tabs=true
@@ -71,8 +71,8 @@ light.color=#106056
 mid.light.color=#313131
 dark.color=black
 mid.color=#191919
-highlight.color=#16a085
-inactive.highlight.color=#16a085
+highlight.color=#1abc9c
+inactive.highlight.color=#1abc9c
 text.color=#ffffffc8
 window.text.color=#ffffffaa
 button.text.color=#ffffffaa
