@@ -63,10 +63,10 @@ scrollable_menu=false
 submenu_delay=250
 
 [GeneralColors]
-window.color=#f5fefb
+window.color=#fafcfc
 base.color=white
 alt.base.color=#F0F0F0
-button.color=#f5fefb
+button.color=#fafcfc
 light.color=white
 mid.light.color=#f0f0f0
 dark.color=#c8c8c8
@@ -77,9 +77,9 @@ text.color=#000000c8
 window.text.color=#000000aa
 button.text.color=#000000aa
 disabled.text.color=#00000073
-tooltip.text.color=#f2fdfa
+tooltip.text.color=#eefffc
 highlight.text.color=white
-link.color=#157c99
+link.color=#159099
 link.visited.color=#452886
 progress.indicator.text.color=white
 
@@ -244,7 +244,7 @@ indicator.size=9
 inherits=PanelButtonCommand
 text.normal.color=#000000c8
 text.press.color=#00000096
-text.focus.color=#117963
+text.focus.color=#008a8c
 
 [Tab]
 inherits=PanelButtonCommand
@@ -288,7 +288,7 @@ frame.bottom=1
 frame.left=1
 frame.right=1
 text.normal.color=#000000aa
-text.focus.color=#117963
+text.focus.color=#008a8c
 text.press.color=black
 text.toggle.color=white
 frame.expansion=0
@@ -464,8 +464,8 @@ text.margin.top=2
 text.margin.bottom=2
 text.margin.left=2
 text.margin.right=2
-text.focus.color=#117963
-text.press.color=#0c5a49
+text.focus.color=#008a8c
+text.press.color=#005f64
 text.toggle.color=black
 frame.expansion=0
 

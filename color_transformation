@@ -11,40 +11,39 @@ Maia:
 #4db6ac -> #16a085
 
 Light:
-251,251,252 -> 251,255,250
-61,174,233 -> 88,208,160   ++  88,171,160
-142,203,233 -> 160,217,195
-0,87,174 -> 21,153,80
-49,54,59 -> 9,47,47
-96,112,128 -> 23,151,151
-250,251,252 -> 245,254,248  --
+251,251,252 -> 251,255,250                251,252,251
+61,174,233 -> 88,208,160   ++  88,171,160 75,191,174
+142,203,233 -> 160,217,195                127,206,209
+0,87,174 -> 21,153,80                     26,119,120
+49,54,59 -> 9,47,47                       49,59,59
+96,112,128 -> 23,151,151                  128,128,128
+250,251,252 -> 245,254,248  --            250,252,251
 104,108,111 -> 30,133,126
 
-#fafbfc -> #f5fef8 -- f5fefb
-#eefcff -> #f2fdfa
-#0057AE -> #157c99
-#007e8c -> #117963
-#005a64 -> #0c5a49
-#d6d6d8 -> #cbfdbf -- 8dbaac
-#275f59 -> #0a4c3f
-#ccccce -> #c3fcb5 -- 7eb0a9
-#fbfbfc -> #fbfffa -- fafffe
-#f2f3f8 -> #ecfeeb -- ebfef7
-#58acff -> #6beba0 -- 49a195
-#39f -> #4be78c -- 49e0d1
-#222d32 -> #031b17
-#f5f6f7 -> #ecfdf1 -- ecfdfc
-#acb1bc -> #a6f7af -- 76b09f
-#cfd3d5 -> #bcfbd9 -- bbfaef
-#e8e9ea -> #d8fde3 -- d8fdf8
-#e7ebed -> #dffcec -- dffcfa
-#dcdedf -> #c5fcdf -- c5fcf7
-#e4e7ea -> #dafce4 -- dafcf7
-#5a616e -> #166e7e
-#dee0e1 -> #cafce1 -- cafcf2
-#1e282d -> #031714
-#e5e7e7 -> #d3fddc -- d3fded
-#a6abae -> #99fac1 -- 99fae3
+#fafbfc -> #f5fef8 -- f5fefb fafcfc
+#eefcff -> #f2fdfa           eefffc
+#0057AE -> #157c99           159099
+#007e8c -> #117963           008a8c
+#005a64 -> #0c5a49           005f64
+#d6d6d8 -> #cbfdbf -- 8dbaac d6d8d7
+#ccccce -> #c3fcb5 -- 7eb0a9 cccecc
+#fbfbfc -> #fbfffa -- fafffe fbfcfc
+#f2f3f8 -> #ecfeeb -- ebfef7 f2f8f5
+#58acff -> #6beba0 -- 49a195 bec2c1
+#39f    -> #4be78c -- 49e0d1 33fff7
+#222d32 -> #031b17           22322d
+#f5f6f7 -> #ecfdf1 -- ecfdfc f5f7f6
+#acb1bc -> #a6f7af -- 76b09f 9fa6a6
+#cfd3d5 -> #bcfbd9 -- bbfaef cfd5d5
+#e8e9ea -> #d8fde3 -- d8fdf8 f0f2f1
+#e7ebed -> #dffcec -- dffcfa c3e6e3
+#dcdedf -> #c5fcdf -- c5fcf7 dcdfde
+#e4e7ea -> #dafce4 -- dafcf7 e5ebea
+#5a616e -> #166e7e           5a6e6e
+#dee0e1 -> #cafce1 -- cafcf2 dee1e1
+#1e282d -> #031714           1e2d28
+#e5e7e7 -> #d3fddc -- d3fded e5e7e7
+#a6abae -> #99fac1 -- 99fae3 a6aead
 #00c3dc -> #17c4a2 -- 17c2ba
 
 Dark:
