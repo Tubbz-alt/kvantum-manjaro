@@ -65,7 +65,7 @@ submenu_delay=250
 [GeneralColors]
 window.color=#fafcfc
 base.color=white
-alt.base.color=#F0F0F0
+alt.base.color=#f0f0f0
 button.color=#fafcfc
 light.color=white
 mid.light.color=#f0f0f0
@@ -79,7 +79,7 @@ button.text.color=#000000aa
 disabled.text.color=#00000073
 tooltip.text.color=#eefffc
 highlight.text.color=white
-link.color=#159099
+link.color=#0057AE
 link.visited.color=#452886
 progress.indicator.text.color=white
 
@@ -465,7 +465,7 @@ text.margin.bottom=2
 text.margin.left=2
 text.margin.right=2
 text.focus.color=#008a8c
-text.press.color=#005f64
+text.press.color=#006D70
 text.toggle.color=black
 frame.expansion=0
 
