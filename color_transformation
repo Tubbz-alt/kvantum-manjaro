@@ -20,7 +20,7 @@ Light:
 250,251,252 -> 245,254,248  --
 104,108,111 -> 30,133,126
 
-#fafbfc -> #f5fef8
+#fafbfc -> #f5fef8 -- f5fefb
 #eefcff -> #f2fdfa
 #0057AE -> #157c99
 #007e8c -> #117963
@@ -28,24 +28,24 @@ Light:
 #d6d6d8 -> #cbfdbf -- 8dbaac
 #275f59 -> #0a4c3f
 #ccccce -> #c3fcb5 -- 7eb0a9
-#fbfbfc -> #fbfffa
-#f2f3f8 -> #ecfeeb
+#fbfbfc -> #fbfffa --- fafffe
+#f2f3f8 -> #ecfeeb -- ebfef7
 #58acff -> #6beba0 -- 49a195
 #39f -> #4be78c -- 49e0d1
 #222d32 -> #031b17
-#f5f6f7 -> #ecfdf1
-#acb1bc -> #a6f7af
-#cfd3d5 -> #bcfbd9
-#e8e9ea -> #d8fde3
-#e7ebed -> #dffcec
-#dcdedf -> #c5fcdf
-#e4e7ea -> #dafce4
+#f5f6f7 -> #ecfdf1 -- ecfdfc
+#acb1bc -> #a6f7af -- 76b09f
+#cfd3d5 -> #bcfbd9 -- bbfaef
+#e8e9ea -> #d8fde3 -- d8fdf8
+#e7ebed -> #dffcec -- dffcfa
+#dcdedf -> #c5fcdf -- c5fcf7
+#e4e7ea -> #dafce4 -- dafcf7
 #5a616e -> #166e7e
-#dee0e1 -> #cafce1
+#dee0e1 -> #cafce1 -- cafcf2
 #1e282d -> #031714
-#e5e7e7 -> #d3fddc
-#a6abae -> #99fac1
-#00c3dc -> #17c4a2
+#e5e7e7 -> #d3fddc -- d3fded
+#a6abae -> #99fac1 -- 99fae3
+#00c3dc -> #17c4a2 -- 17c2ba
 
 Dark:
 46,184,23 -> 73,202,161
